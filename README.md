@@ -10,7 +10,7 @@ Hardware:
   
   The ESP01 has I2C feature, see data sheet https://www.microchip.ua/wireless/esp01.pdf
   
-  ![esp01_board](https://github.com/frankyhun/esp01_with_adafruit_stemma_soil_sensor/blob/main/esp01_board.png "Logo Title Text 1")
+  ![esp01_board](https://github.com/frankyhun/esp01_with_adafruit_stemma_soil_sensor/blob/main/doc/esp01_board.png)
 
 
 
